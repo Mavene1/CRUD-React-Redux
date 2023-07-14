@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Mavene Otieno",
+      "address": "Nakuru",
+      "email": "mavs@gmail.com",
+      "contact": "001",
+      "id": "1"
+    },
+    {
+      "name": "Bran",
+      "address": "Webuye",
+      "email": "bran@gmail.com",
+      "contact": "002",
+      "id": "2"
+    },
+    {
+      "name": "Kip",
+      "address": "Eld",
+      "email": "kip@gmail.com",
+      "contact": "003",
+      "id": "zW9x4O-"
+    },
+    {
+      "name": "Omondi",
+      "address": "Omosh",
+      "email": "omo@gmail.com",
+      "contact": "0199222",
+      "id": "q8KKXA-"
+    }
+  ]
+}
